@@ -1,0 +1,19 @@
+D:\courses\codveda\Library Management\Library Management\obj\Debug\net9.0\Library Management.csproj.AssemblyReference.cache
+D:\courses\codveda\Library Management\Library Management\obj\Debug\net9.0\Library Management.GeneratedMSBuildEditorConfig.editorconfig
+D:\courses\codveda\Library Management\Library Management\obj\Debug\net9.0\Library Management.AssemblyInfoInputs.cache
+D:\courses\codveda\Library Management\Library Management\obj\Debug\net9.0\Library Management.AssemblyInfo.cs
+D:\courses\codveda\Library Management\Library Management\obj\Debug\net9.0\Library Management.csproj.CoreCompileInputs.cache
+D:\courses\codveda\Library Management\Library Management\bin\Debug\net9.0\Library Management.exe
+D:\courses\codveda\Library Management\Library Management\bin\Debug\net9.0\Library Management.deps.json
+D:\courses\codveda\Library Management\Library Management\bin\Debug\net9.0\Library Management.runtimeconfig.json
+D:\courses\codveda\Library Management\Library Management\bin\Debug\net9.0\Library Management.dll
+D:\courses\codveda\Library Management\Library Management\bin\Debug\net9.0\Library Management.pdb
+D:\courses\codveda\Library Management\Library Management\bin\Debug\net9.0\Serilog.dll
+D:\courses\codveda\Library Management\Library Management\bin\Debug\net9.0\Serilog.Sinks.Console.dll
+D:\courses\codveda\Library Management\Library Management\bin\Debug\net9.0\Serilog.Sinks.File.dll
+D:\courses\codveda\Library Management\Library Management\obj\Debug\net9.0\Library .0D70EAA2.Up2Date
+D:\courses\codveda\Library Management\Library Management\obj\Debug\net9.0\Library Management.dll
+D:\courses\codveda\Library Management\Library Management\obj\Debug\net9.0\refint\Library Management.dll
+D:\courses\codveda\Library Management\Library Management\obj\Debug\net9.0\Library Management.pdb
+D:\courses\codveda\Library Management\Library Management\obj\Debug\net9.0\Library Management.genruntimeconfig.cache
+D:\courses\codveda\Library Management\Library Management\obj\Debug\net9.0\ref\Library Management.dll
