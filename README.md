@@ -1,7 +1,7 @@
 # Library Management System - CodVeda Internship Task
 
 A simple **C# console application** that allows users to manage a small library system.  
-It demonstrates **OOP concepts** and uses **Serilog** for logging events.
+It demonstrates **OOP concepts, error handling with custom exceptions, and logging with Serilog**.
 
 ---
 
@@ -9,7 +9,9 @@ It demonstrates **OOP concepts** and uses **Serilog** for logging events.
 - ➕ Add new books  
 - 📋 List all books  
 - 🔍 Search books by title  
-- 📝 Logging all operations (to console and file)  
+- ⚠️ Handles errors using **try-catch-finally**  
+- ❌ Throws and handles a **custom exception** (`BookNotFoundException`) when a book is not found  
+- 📝 Logs all operations to **console** and **file** using Serilog  
 
 ---
 
@@ -17,22 +19,23 @@ It demonstrates **OOP concepts** and uses **Serilog** for logging events.
 - C#  
 - .NET Console Application  
 - OOP Principles (Encapsulation, Collections)  
+- Exception Handling (try-catch-finally, custom exceptions)  
 - Serilog (for logging)  
 
 ---
 
 ## 📂 Project Structure
-- **Program.cs** → Entry point, menu system, and handles user input/output  
-- **Book.cs** → Represents a book entity with title and author  
+- **Program.cs** → Entry point, menu system, user input/output, and error handling  
+- **Book.cs** → Represents a book entity (Title, Author)  
 - **Library.cs** → Manages the collection of books (add, list, search)  
-- **Logger Configuration** → Uses Serilog to log actions  
+- **BookNotFoundException.cs** → Custom exception class for handling search errors  
 
 ---
 
 ## 📥 Download & Run
 You can download the latest version of the application from the Release section:
 
-[Download Library Management System v1.0](https://github.com/Ahmed-Ayman630/LibraryManagementSystem/archive/refs/tags/v1.0.zip)
+[Download Library Management System v1.0](https://github.com/Ahmed-Ayman630/LibraryManagementSystem/releases/download/v1.0/LibraryApp.exe)
 
 ---
 
