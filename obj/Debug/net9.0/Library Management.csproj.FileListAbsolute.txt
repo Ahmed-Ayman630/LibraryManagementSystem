@@ -17,3 +17,4 @@ D:\courses\codveda\Library Management\Library Management\obj\Debug\net9.0\refint
 D:\courses\codveda\Library Management\Library Management\obj\Debug\net9.0\Library Management.pdb
 D:\courses\codveda\Library Management\Library Management\obj\Debug\net9.0\Library Management.genruntimeconfig.cache
 D:\courses\codveda\Library Management\Library Management\obj\Debug\net9.0\ref\Library Management.dll
+D:\courses\codveda\Library Management\Library Management\obj\Debug\net9.0\Library Management.sourcelink.json

@@ -1,0 +1,10 @@
+2025-09-09 10:51:55.674 +03:00 [ERR] Book search failed
+LibraryApp.BookNotFoundException: The book 'python' was not found in the library.
+   at LibraryApp.Library.SearchBook(String title) in D:\courses\codveda\Library Management\Library Management\Library.cs:line 27
+   at LibraryApp.Program.Main() in D:\courses\codveda\Library Management\Library Management\Program.cs:line 30
+2025-09-09 10:53:45.018 +03:00 [INF] Book 'c# basics' found successfully.
+2025-09-09 10:54:16.216 +03:00 [INF] Book 'Advanced C#' found successfully.
+2025-09-09 10:54:26.363 +03:00 [ERR] Book search failed
+LibraryApp.BookNotFoundException: The book 'python' was not found in the library.
+   at LibraryApp.Library.SearchBook(String title) in D:\courses\codveda\Library Management\Library Management\Library.cs:line 27
+   at LibraryApp.Program.Main() in D:\courses\codveda\Library Management\Library Management\Program.cs:line 30
