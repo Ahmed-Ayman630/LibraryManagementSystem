@@ -35,7 +35,7 @@ It demonstrates **OOP concepts, error handling with custom exceptions, and loggi
 ## 📥 Download & Run
 You can download the latest version of the application from the Release section:
 
-[Download Library Management System v1.1](https://github.com/Ahmed-Ayman630/LibraryManagementSystem/archive/refs/tags/v1.1.zip)
+[Download Library Management System v1.1](https://github.com/Ahmed-Ayman630/LibraryManagementSystem/releases/download/v2.0/Library.Managment.zip)
 
 ---
 
