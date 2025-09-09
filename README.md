@@ -32,7 +32,7 @@ It demonstrates **OOP concepts** and uses **Serilog** for logging events.
 ## 📥 Download & Run
 You can download the latest version of the application from the Release section:
 
-[Download Library Management System v1.0](https://github.com/Ahmed-Ayman630/LibraryManagementSystem/releases/download/v1.0/Library.Management.exe)
+[Download Library Management System v1.0](https://github.com/Ahmed-Ayman630/LibraryManagementSystem/archive/refs/tags/v1.0.zip)
 
 ---
 
